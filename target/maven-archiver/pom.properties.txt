@@ -1,0 +1,3 @@
+artifactId=sample-webapp
+groupId=com.almabetter
+version=0.0.1-SNAPSHOT
